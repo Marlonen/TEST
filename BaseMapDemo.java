@@ -4,6 +4,7 @@ package baidumapsdk.demo;
 // test3
 // test4
 // test5
+// test6
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
